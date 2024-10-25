@@ -1,9 +1,6 @@
 # Animated Grid Demo
 
-<video width="100%" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/YeungKC/animated_grid_demo/raw/refs/heads/main/demo.mp4
 
 A Flutter project demonstrating a state-driven approach to creating beautiful loading animations for large datasets.
 
